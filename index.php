@@ -1,1 +1,1 @@
-<?php  echo "This Test PHP page, ver1" ?>
+<?php  echo "This Test PHP page, ver2" ?>
